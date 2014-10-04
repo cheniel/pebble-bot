@@ -1,0 +1,1091 @@
+Archive member included because of file (symbol)
+
+/Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                              src/ble_sumo.c.7.o (app_event_loop)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .bss           0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .init          0x0000000000000000        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .fini          0x0000000000000000        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .text          0x0000000000000000       0xc8 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .bss           0x0000000000000000       0x1c /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .text          0x0000000000000000        0x0 src/ble_sumo.c.7.o
+ .bss           0x0000000000000000        0x0 src/ble_sumo.c.7.o
+ .text          0x0000000000000000        0x0 src/ble_sumo_control.c.7.o
+ .bss           0x0000000000000000        0x0 src/ble_sumo_control.c.7.o
+ .text          0x0000000000000000        0x0 src/ble_sumo_scan.c.7.o
+ .bss           0x0000000000000000        0x0 src/ble_sumo_scan.c.7.o
+ .text          0x0000000000000000        0x0 appinfo.auto.c.7.o
+ .bss           0x0000000000000000        0x0 appinfo.auto.c.7.o
+ .bss           0x0000000000000000        0x0 /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_data_service_subscribe__deprecated
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_data_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_service_peek
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_service_set_samples_per_update
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_service_set_sampling_rate
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_tap_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_tap_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_add_to_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_clear_icon
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_get_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_remove_from_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_set_background_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_set_click_config_provider
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_set_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.action_bar_layer_set_icon
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_get_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_is_scheduled
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_schedule
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_set_curve
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_set_delay
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_set_duration
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_set_handlers
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_set_implementation
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_unschedule
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_unschedule_all
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_comm_get_sniff_interval
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_comm_set_sniff_interval
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_deregister_callbacks
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_open
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_sync_deinit
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_sync_get
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_sync_init
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_sync_set
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_timer_cancel
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_timer_register
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_timer_reschedule
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.atan2_lookup
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.atoi     0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.atol     0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.battery_state_service_peek
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.battery_state_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.battery_state_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_get_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_set_alignment
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_set_background_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_set_bitmap
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_set_compositing_mode
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bluetooth_connection_service_peek
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bluetooth_connection_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bluetooth_connection_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.click_number_of_clicks_counted
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.click_recognizer_get_button_id
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.clock_copy_time_string
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.clock_is_24h_style
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.cos_lookup
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.data_logging_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.data_logging_finish
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.data_logging_log
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_calc_buffer_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_calc_buffer_size_from_tuplets
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_find
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_merge
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_read_begin_from_buffer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_read_first
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_read_next
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_serialize_tuplets
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_serialize_tuplets_to_buffer__deprecated
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_serialize_tuplets_to_buffer_with_iter
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_begin
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_cstring
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_end
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_int
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_int16
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_int32
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_int8
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_tuplet
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_uint16
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_uint32
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_write_uint8
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.fonts_get_system_font
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.fonts_load_custom_font
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.fonts_unload_custom_font
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gbitmap_create_as_sub_bitmap
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gbitmap_create_with_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gbitmap_create_with_resource
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gbitmap_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gmtime   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_draw_filled_legacy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_draw_outline
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_move_to
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_rotate_to
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpoint_equal
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_context_set_compositing_mode
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_context_set_fill_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_context_set_stroke_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_context_set_text_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_bitmap_in_rect
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_circle
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_line
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_pixel
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_rect
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_round_rect
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_fill_circle
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_fill_rect
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_text_layout_get_max_used_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_align
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_center_point
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_clip
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_contains_point
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_crop
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_equal
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_is_empty
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.grect_standardize
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gsize_equal
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.inverter_layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.inverter_layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.inverter_layer_get_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_create_with_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_get_bounds
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_get_clips
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_get_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_get_hidden
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_get_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_insert_above_sibling
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_insert_below_sibling
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_mark_dirty
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_remove_child_layers
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_remove_from_parent
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_set_bounds
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_set_clips
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_set_frame
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_set_hidden
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.layer_set_update_proc
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.light_enable
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.light_enable_interaction
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.localtime
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.memcpy   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.memmove  0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_cell_title_draw
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_index_compare
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_layer_get_scroll_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_layer_get_selected_index
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_layer_set_callbacks__deprecated
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_layer_set_selected_index
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.menu_layer_set_selected_next
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_get_value
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_set_label
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_set_max
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_set_min
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_set_step_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_set_value
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_delete
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_exists
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_get_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_read_bool
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_read_data__deprecated
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_read_int
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_read_string__deprecated
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_write_bool
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_write_data__deprecated
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_write_int
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_write_string
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.property_animation_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.property_animation_create_layer_frame
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.property_animation_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.property_animation_update_gpoint
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.property_animation_update_grect
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.property_animation_update_int16
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.psleep   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rand     0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.resource_get_handle
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.resource_load
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.resource_load_byte_range
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.resource_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_layer_increment_angle
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_layer_set_angle
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_layer_set_corner_clip_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_set_compositing_mode
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.rot_bitmap_set_src_ic
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_add_child
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_get_content_offset
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_get_content_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_get_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_get_shadow_hidden
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_scroll_down_click_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_scroll_up_click_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_callbacks
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_content_offset
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_content_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_frame
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.scroll_layer_set_shadow_hidden
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.simple_menu_layer_create
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.simple_menu_layer_destroy
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.simple_menu_layer_get_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.simple_menu_layer_get_selected_index
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.simple_menu_layer_set_selected_index
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.sin_lookup
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.srand    0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.strcat   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.strcpy   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.strftime
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.strlen   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.strncat  0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.strncmp  0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_get_content_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_get_text
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_set_background_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_set_font
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_set_overflow_mode
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_set_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_set_text_alignment
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.text_layer_set_text_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.tick_timer_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.tick_timer_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.time     0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.time_ms  0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.vibes_cancel
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.vibes_double_pulse
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.vibes_enqueue_custom_pattern
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.vibes_long_pulse
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.vibes_short_pulse
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_get_click_config_provider
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_get_fullscreen
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_is_loaded
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_set_background_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_set_click_config_provider_with_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_set_fullscreen
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_set_status_bar_icon
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_stack_contains_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_stack_get_top_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_stack_pop
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_stack_pop_all
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_stack_remove
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_focus_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_focus_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_get_user_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_get_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_inbox_size_maximum
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_outbox_begin
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_outbox_send
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_outbox_size_maximum
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_register_inbox_dropped
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_register_inbox_received
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_register_outbox_failed
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_register_outbox_sent
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_message_set_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_long_click_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_multi_click_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_set_click_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_single_click_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_single_repeating_click_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_draw_text
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_serialize_tuplets_to_buffer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_read_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_read_string
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.persist_write_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.dict_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.graphics_text_layout_get_content_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.simple_menu_layer_get_menu_layer
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_data_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.calloc   0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bitmap_layer_get_bitmap
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.window_get_click_config_context
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.number_window_get_window
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.realloc  0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gbitmap_create_blank
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.click_recognizer_is_repeating
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.accel_raw_data_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_worker_is_running
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_worker_kill
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_worker_launch
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_worker_message_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_worker_message_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.app_worker_send_message
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.worker_event_loop
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.worker_launch_app
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.heap_bytes_free
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.heap_bytes_used
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.compass_service_peek
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.compass_service_set_heading_filter
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.compass_service_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.compass_service_unsubscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.gpath_draw_filled
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.animation_set_custom_curve
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.watch_info_get_color
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.watch_info_get_firmware_version
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.watch_info_get_model
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_ad_copy_manufacturer_specific_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_ad_copy_raw_data
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_ad_get_raw_data_size
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_get_descriptors
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_get_device
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_get_properties
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_get_service
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_is_indicatable
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_is_notifiable
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_is_readable
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_is_subscribable
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_characteristic_is_writable
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_get_maximum_value_length
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_read
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_read_descriptor
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_set_descriptor_read_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_set_descriptor_write_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_set_read_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_set_service_filter
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_set_subscribe_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_set_write_response_handler
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_subscribe
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_write
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_client_write_descriptor
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_descriptor_get_characteristic
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_descriptor_get_uuid
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_scan_is_scanning
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_service_get_device
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.ble_service_get_included_services
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bt_device_address_equal
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bt_device_init_with_address
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text.bt_uuid_expand_32bit
+                0x0000000000000000        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .text          0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .jcr           0x0000000000000000        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .text          0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .init          0x0000000000000000        0x8 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .fini          0x0000000000000000        0x8 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+APP              0x0000000000000000 0x0000000000006000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+LOAD /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+LOAD src/ble_sumo.c.7.o
+LOAD src/ble_sumo_control.c.7.o
+LOAD src/ble_sumo_scan.c.7.o
+LOAD appinfo.auto.c.7.o
+LOAD /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a
+START GROUP
+LOAD /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a
+LOAD /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+LOAD /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.header         0x0000000000000000       0x82
+ *(.pbl_header)
+ .pbl_header    0x0000000000000000       0x82 appinfo.auto.c.7.o
+                0x0000000000000000                __pbl_app_info
+
+.text           0x0000000000000084     0x10a4
+ *(.text)
+ .text          0x0000000000000084       0x14 /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ *(.text.*)
+ .text.startup.main
+                0x0000000000000098       0x24 src/ble_sumo.c.7.o
+                0x0000000000000098                main
+ .text.window_unload
+                0x00000000000000bc       0x20 src/ble_sumo_control.c.7.o
+ .text.window_disappear
+                0x00000000000000dc       0x44 src/ble_sumo_control.c.7.o
+ .text.window_appear
+                0x0000000000000120       0x48 src/ble_sumo_control.c.7.o
+ .text.window_load
+                0x0000000000000168       0x50 src/ble_sumo_control.c.7.o
+ .text.service_change_handler
+                0x00000000000001b8      0x230 src/ble_sumo_control.c.7.o
+ .text.connection_handler
+                0x00000000000003e8       0x98 src/ble_sumo_control.c.7.o
+ .text.click_config_provider
+                0x0000000000000480       0x50 src/ble_sumo_control.c.7.o
+ .text.handle_select_button_up
+                0x00000000000004d0       0x68 src/ble_sumo_control.c.7.o
+ .text.handle_select_button_down
+                0x0000000000000538       0x68 src/ble_sumo_control.c.7.o
+ .text.handle_down_button_up
+                0x00000000000005a0       0x40 src/ble_sumo_control.c.7.o
+ .text.handle_down_button_down
+                0x00000000000005e0       0x40 src/ble_sumo_control.c.7.o
+ .text.handle_up_button_up
+                0x0000000000000620       0x40 src/ble_sumo_control.c.7.o
+ .text.handle_up_button_down
+                0x0000000000000660       0x40 src/ble_sumo_control.c.7.o
+ .text.ble_sumo_control_set_device
+                0x00000000000006a0       0x10 src/ble_sumo_control.c.7.o
+                0x00000000000006a0                ble_sumo_control_set_device
+ .text.ble_sumo_control_window_create
+                0x00000000000006b0       0x4c src/ble_sumo_control.c.7.o
+                0x00000000000006b0                ble_sumo_control_window_create
+ .text.menu_get_num_sections_callback
+                0x00000000000006fc        0x4 src/ble_sumo_scan.c.7.o
+ .text.menu_get_header_height_callback
+                0x0000000000000700        0x4 src/ble_sumo_scan.c.7.o
+ .text.window_unload
+                0x0000000000000704       0x48 src/ble_sumo_scan.c.7.o
+ .text.menu_draw_header_callback
+                0x000000000000074c       0x1c src/ble_sumo_scan.c.7.o
+ .text.ble_scan_handler
+                0x0000000000000768      0x204 src/ble_sumo_scan.c.7.o
+ .text.menu_draw_row_callback
+                0x000000000000096c      0x100 src/ble_sumo_scan.c.7.o
+ .text.menu_get_num_rows_callback
+                0x0000000000000a6c       0x2c src/ble_sumo_scan.c.7.o
+ .text.toggle_scan
+                0x0000000000000a98       0x38 src/ble_sumo_scan.c.7.o
+                0x0000000000000a98                toggle_scan
+ .text.window_disappear
+                0x0000000000000ad0       0x14 src/ble_sumo_scan.c.7.o
+ .text.window_load
+                0x0000000000000ae4       0xbc src/ble_sumo_scan.c.7.o
+ .text.menu_select_callback
+                0x0000000000000ba0       0x44 src/ble_sumo_scan.c.7.o
+ .text.ble_sumo_scan_window_create
+                0x0000000000000be4       0x48 src/ble_sumo_scan.c.7.o
+                0x0000000000000be4                ble_sumo_scan_window_create
+ .text.app_event_loop
+                0x0000000000000c2c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c2c                app_event_loop
+ .text.app_log  0x0000000000000c38        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c38                app_log
+ .text.free     0x0000000000000c44        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c44                free
+ .text.layer_add_child
+                0x0000000000000c50        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c50                layer_add_child
+ .text.layer_get_frame
+                0x0000000000000c5c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c5c                layer_get_frame
+ .text.malloc   0x0000000000000c68        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c68                malloc
+ .text.memset   0x0000000000000c74        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c74                memset
+ .text.menu_cell_basic_draw
+                0x0000000000000c80        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c80                menu_cell_basic_draw
+ .text.menu_cell_basic_header_draw
+                0x0000000000000c8c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c8c                menu_cell_basic_header_draw
+ .text.menu_layer_create
+                0x0000000000000c98        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000c98                menu_layer_create
+ .text.menu_layer_destroy
+                0x0000000000000ca4        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000ca4                menu_layer_destroy
+ .text.menu_layer_get_layer
+                0x0000000000000cb0        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000cb0                menu_layer_get_layer
+ .text.menu_layer_reload_data
+                0x0000000000000cbc        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000cbc                menu_layer_reload_data
+ .text.menu_layer_set_click_config_onto_window
+                0x0000000000000cc8        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000cc8                menu_layer_set_click_config_onto_window
+ .text.snprintf
+                0x0000000000000cd4        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000cd4                snprintf
+ .text.strcmp   0x0000000000000ce0        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000ce0                strcmp
+ .text.strncpy  0x0000000000000cec        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000cec                strncpy
+ .text.text_layer_create
+                0x0000000000000cf8        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000cf8                text_layer_create
+ .text.text_layer_destroy
+                0x0000000000000d04        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d04                text_layer_destroy
+ .text.text_layer_get_layer
+                0x0000000000000d10        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d10                text_layer_get_layer
+ .text.text_layer_set_text
+                0x0000000000000d1c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d1c                text_layer_set_text
+ .text.window_create
+                0x0000000000000d28        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d28                window_create
+ .text.window_destroy
+                0x0000000000000d34        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d34                window_destroy
+ .text.window_get_root_layer
+                0x0000000000000d40        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d40                window_get_root_layer
+ .text.window_set_click_config_provider
+                0x0000000000000d4c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d4c                window_set_click_config_provider
+ .text.window_set_window_handlers
+                0x0000000000000d58        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d58                window_set_window_handlers
+ .text.window_stack_push
+                0x0000000000000d64        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d64                window_stack_push
+ .text.window_set_user_data
+                0x0000000000000d70        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d70                window_set_user_data
+ .text.window_raw_click_subscribe
+                0x0000000000000d7c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d7c                window_raw_click_subscribe
+ .text.menu_layer_set_callbacks
+                0x0000000000000d88        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d88                menu_layer_set_callbacks
+ .text.uuid_equal
+                0x0000000000000d94        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000d94                uuid_equal
+ .text.uuid_to_string
+                0x0000000000000da0        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000da0                uuid_to_string
+ .text.ble_ad_copy_local_name
+                0x0000000000000dac        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000dac                ble_ad_copy_local_name
+ .text.ble_ad_copy_service_uuids
+                0x0000000000000db8        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000db8                ble_ad_copy_service_uuids
+ .text.ble_ad_get_tx_power_level
+                0x0000000000000dc4        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000dc4                ble_ad_get_tx_power_level
+ .text.ble_ad_includes_service
+                0x0000000000000dd0        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000dd0                ble_ad_includes_service
+ .text.ble_central_cancel_connect
+                0x0000000000000ddc        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000ddc                ble_central_cancel_connect
+ .text.ble_central_connect
+                0x0000000000000de8        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000de8                ble_central_connect
+ .text.ble_central_set_connection_handler
+                0x0000000000000df4        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000df4                ble_central_set_connection_handler
+ .text.ble_characteristic_get_uuid
+                0x0000000000000e00        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e00                ble_characteristic_get_uuid
+ .text.ble_client_discover_services_and_characteristics
+                0x0000000000000e0c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e0c                ble_client_discover_services_and_characteristics
+ .text.ble_client_set_service_change_handler
+                0x0000000000000e18        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e18                ble_client_set_service_change_handler
+ .text.ble_client_write_without_response
+                0x0000000000000e24        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e24                ble_client_write_without_response
+ .text.ble_scan_start
+                0x0000000000000e30        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e30                ble_scan_start
+ .text.ble_scan_stop
+                0x0000000000000e3c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e3c                ble_scan_stop
+ .text.ble_service_get_characteristics
+                0x0000000000000e48        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e48                ble_service_get_characteristics
+ .text.ble_service_get_uuid
+                0x0000000000000e54        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e54                ble_service_get_uuid
+ .text.bt_device_equal
+                0x0000000000000e60        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e60                bt_device_equal
+ .text.bt_device_get_address
+                0x0000000000000e6c        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e6c                bt_device_get_address
+ .text.bt_uuid_expand_16bit
+                0x0000000000000e78        0xc /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+                0x0000000000000e78                bt_uuid_expand_16bit
+ *(.rodata)
+ .rodata        0x0000000000000e84       0x30 src/ble_sumo_control.c.7.o
+ *(.rodata*)
+ .rodata.SERVO_FWD
+                0x0000000000000eb4        0x2 src/ble_sumo_control.c.7.o
+ .rodata.str1.1
+                0x0000000000000eb6      0x193 src/ble_sumo_control.c.7.o
+ *fill*         0x0000000000001049        0x1 
+ .rodata.SERVO_BACK
+                0x000000000000104a        0x2 src/ble_sumo_control.c.7.o
+ .rodata.SERVO_STILL
+                0x000000000000104c        0x2 src/ble_sumo_control.c.7.o
+ .rodata.str1.1
+                0x000000000000104e       0xda src/ble_sumo_scan.c.7.o
+                                         0xdb (size before relaxing)
+
+.glue_7         0x0000000000001128        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000001128        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001128        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000001128        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000001128        0x0
+ .iplt          0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.rel.dyn        0x0000000000001128        0x0
+ .rel.iplt      0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.data           0x0000000000001128       0x14
+ *(.data)
+ .data          0x0000000000001128        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .data          0x0000000000001128        0x4 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                0x0000000000001128                __dso_handle
+ .data          0x000000000000112c        0x0 src/ble_sumo.c.7.o
+ .data          0x000000000000112c       0x10 src/ble_sumo_control.c.7.o
+ .data          0x000000000000113c        0x0 src/ble_sumo_scan.c.7.o
+ .data          0x000000000000113c        0x0 appinfo.auto.c.7.o
+ .data          0x000000000000113c        0x0 /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .data          0x000000000000113c        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .data          0x000000000000113c        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ *(.data.*)
+
+.igot.plt       0x000000000000113c        0x0
+ .igot.plt      0x0000000000000000        0x0 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.bss            0x0000000000001140       0x69
+ *(.bss)
+ *(.bss.*)
+ .bss.s_scan_window
+                0x0000000000001140        0x4 src/ble_sumo.c.7.o
+ .bss.leftForward
+                0x0000000000001144        0x1 src/ble_sumo_control.c.7.o
+ .bss.rightFoward
+                0x0000000000001145        0x1 src/ble_sumo_control.c.7.o
+ *fill*         0x0000000000001146        0x2 
+ .bss.s_ctx     0x0000000000001148       0x58 src/ble_sumo_control.c.7.o
+ .bss.s_head    0x00000000000011a0        0x4 src/ble_sumo_scan.c.7.o
+ .bss.s_menu_layer
+                0x00000000000011a4        0x4 src/ble_sumo_scan.c.7.o
+ .bss.s_is_scanning
+                0x00000000000011a8        0x1 src/ble_sumo_scan.c.7.o
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+ *(.eh_frame)
+OUTPUT(/Users/danielchen/Documents/Projects/2014/pebble-bot/pebble-bot-app/build/pebble-app.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x27
+ .ARM.attributes
+                0x0000000000000000       0x19 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .ARM.attributes
+                0x0000000000000019       0x29 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .ARM.attributes
+                0x0000000000000042       0x33 src/ble_sumo.c.7.o
+ .ARM.attributes
+                0x0000000000000075       0x33 src/ble_sumo_control.c.7.o
+ .ARM.attributes
+                0x00000000000000a8       0x33 src/ble_sumo_scan.c.7.o
+ .ARM.attributes
+                0x00000000000000db       0x33 appinfo.auto.c.7.o
+ .ARM.attributes
+                0x000000000000010e       0x21 /Users/danielchen/pebble-dev/PebbleSDK-2.x-201410021248/Pebble/lib/libpebble.a(tmpmIT5Rppebble.o)
+ .ARM.attributes
+                0x000000000000012f       0x29 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .ARM.attributes
+                0x0000000000000158       0x19 /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.comment        0x0000000000000000       0x4e
+ .comment       0x0000000000000000       0x4e /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                                         0x4f (size before relaxing)
+ .comment       0x0000000000000000       0x4f src/ble_sumo.c.7.o
+ .comment       0x0000000000000000       0x4f src/ble_sumo_control.c.7.o
+ .comment       0x0000000000000000       0x4f src/ble_sumo_scan.c.7.o
+ .comment       0x0000000000000000       0x4f appinfo.auto.c.7.o
+ .comment       0x0000000000000000       0x4f /Users/danielchen/pebble-dev/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+
+.debug_info     0x0000000000000000     0x3072
+ .debug_info    0x0000000000000000      0x13f src/ble_sumo.c.7.o
+ .debug_info    0x000000000000013f     0x1388 src/ble_sumo_control.c.7.o
+ .debug_info    0x00000000000014c7     0x18a9 src/ble_sumo_scan.c.7.o
+ .debug_info    0x0000000000002d70      0x302 appinfo.auto.c.7.o
+
+.debug_abbrev   0x0000000000000000      0x8e8
+ .debug_abbrev  0x0000000000000000       0xe9 src/ble_sumo.c.7.o
+ .debug_abbrev  0x00000000000000e9      0x2cf src/ble_sumo_control.c.7.o
+ .debug_abbrev  0x00000000000003b8      0x492 src/ble_sumo_scan.c.7.o
+ .debug_abbrev  0x000000000000084a       0x9e appinfo.auto.c.7.o
+
+.debug_loc      0x0000000000000000      0xeea
+ .debug_loc     0x0000000000000000       0x20 src/ble_sumo.c.7.o
+ .debug_loc     0x0000000000000020      0x603 src/ble_sumo_control.c.7.o
+ .debug_loc     0x0000000000000623      0x8c7 src/ble_sumo_scan.c.7.o
+
+.debug_aranges  0x0000000000000000      0x140
+ .debug_aranges
+                0x0000000000000000       0x20 src/ble_sumo.c.7.o
+ .debug_aranges
+                0x0000000000000020       0x90 src/ble_sumo_control.c.7.o
+ .debug_aranges
+                0x00000000000000b0       0x78 src/ble_sumo_scan.c.7.o
+ .debug_aranges
+                0x0000000000000128       0x18 appinfo.auto.c.7.o
+
+.debug_ranges   0x0000000000000000      0x370
+ .debug_ranges  0x0000000000000000       0x10 src/ble_sumo.c.7.o
+ .debug_ranges  0x0000000000000010      0x1d8 src/ble_sumo_control.c.7.o
+ .debug_ranges  0x00000000000001e8      0x188 src/ble_sumo_scan.c.7.o
+
+.debug_line     0x0000000000000000      0x889
+ .debug_line    0x0000000000000000       0xac src/ble_sumo.c.7.o
+ .debug_line    0x00000000000000ac      0x358 src/ble_sumo_control.c.7.o
+ .debug_line    0x0000000000000404      0x360 src/ble_sumo_scan.c.7.o
+ .debug_line    0x0000000000000764      0x125 appinfo.auto.c.7.o
+
+.debug_str      0x0000000000000000     0x1136
+ .debug_str     0x0000000000000000      0x12d src/ble_sumo.c.7.o
+                                        0x166 (size before relaxing)
+ .debug_str     0x000000000000012d      0x8c1 src/ble_sumo_control.c.7.o
+                                        0xa9b (size before relaxing)
+ .debug_str     0x00000000000009ee      0x63e src/ble_sumo_scan.c.7.o
+                                        0xc26 (size before relaxing)
+ .debug_str     0x000000000000102c      0x10a appinfo.auto.c.7.o
+                                        0x28f (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x308
+ .debug_frame   0x0000000000000000       0x28 src/ble_sumo.c.7.o
+ .debug_frame   0x0000000000000028      0x1ac src/ble_sumo_control.c.7.o
+ .debug_frame   0x00000000000001d4      0x134 src/ble_sumo_scan.c.7.o

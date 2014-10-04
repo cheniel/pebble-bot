@@ -1,0 +1,17 @@
+{
+  "uuid": "464a1ae2-10cd-4a63-b4c8-3b367579beca",
+  "shortName": "Sumo!",
+  "longName": "Sumo!",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
