@@ -26,11 +26,11 @@ void setup()
  
 void loop() 
 {   
-    uint16_t leftServoSpeed = Bean.readScratchNumber(1);
-    uint16_t rightServoSpeed = Bean.readScratchNumber(2);
+    uint16_t leftServoSpeed = Bean.readScratchNumber(2);
+    uint16_t rightServoSpeed = Bean.readScratchNumber(1);
 
-    if (leftServoSpeed != previousLeftServoSpeed) leftServo.write(0);    
-    if (rightServoSpeed != previousRightServoSpeed) rightServo.write(180);    
+    if (leftServoSpeed != previousLeftServoSpeed) leftServo.write(leftServoSpeed);    
+    if (rightServoSpeed != previousRightServoSpeed) rightServo.write(rightServoSpeed);    
     
     previousLeftServoSpeed = leftServoSpeed;
     previousRightServoSpeed = rightServoSpeed;

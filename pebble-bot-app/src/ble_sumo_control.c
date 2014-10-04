@@ -12,6 +12,8 @@ typedef struct {
 } SumoControlCtx;
 
 static SumoControlCtx s_ctx;
+static bool leftForward = false;
+static bool rightFoward = false;
 
 static void ready(void);
 
@@ -184,43 +186,57 @@ static const uint16_t SERVO_BACK = 180;
 static const uint16_t SERVO_STILL = 90;
 static const uint16_t SERVO_FWD = 0;
 
-static void handle_up_button_up(ClickRecognizerRef recognizer, void *context) {
+static void handle_down_button_up(ClickRecognizerRef recognizer, void *context) {
   ble_client_write_without_response(s_ctx.scratch1_characteristic,
                                     (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
   printf("UP=0");
-}
-
-static void handle_up_button_down(ClickRecognizerRef recognizer, void *context) {
-  ble_client_write_without_response(s_ctx.scratch1_characteristic,
-                                    (const uint8_t *) &SERVO_BACK, sizeof(SERVO_BACK));
-  printf("UP=1");
-}
-
-static void handle_down_button_up(ClickRecognizerRef recognizer, void *context) {
-  ble_client_write_without_response(s_ctx.scratch2_characteristic,
-                                    (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
-  printf("DOWN=0");
+  leftForward = false;
 }
 
 static void handle_down_button_down(ClickRecognizerRef recognizer, void *context) {
+  ble_client_write_without_response(s_ctx.scratch1_characteristic,
+                                    (const uint8_t *) &SERVO_BACK, sizeof(SERVO_BACK));
+  printf("UP=1");
+  leftForward = true;
+}
+
+static void handle_up_button_up(ClickRecognizerRef recognizer, void *context) {
+  ble_client_write_without_response(s_ctx.scratch2_characteristic,
+                                    (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
+  printf("DOWN=0");
+  rightFoward = false;
+}
+
+static void handle_up_button_down(ClickRecognizerRef recognizer, void *context) {
   ble_client_write_without_response(s_ctx.scratch2_characteristic,
                                     (const uint8_t *) &SERVO_FWD, sizeof(SERVO_FWD));
   printf("DOWN=1");
+  rightFoward = true;
 }
 
 static void handle_select_button_up(ClickRecognizerRef recognizer, void *context) {
-  ble_client_write_without_response(s_ctx.scratch1_characteristic,
-                                    (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
-  ble_client_write_without_response(s_ctx.scratch2_characteristic,
-                                    (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
+  if (!leftForward) {
+    ble_client_write_without_response(s_ctx.scratch1_characteristic,
+                                      (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
+  }
+
+  if (!rightFoward) {
+    ble_client_write_without_response(s_ctx.scratch2_characteristic,
+                                      (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
+  }
   printf("SELECT=0");
 }
 
 static void handle_select_button_down(ClickRecognizerRef recognizer, void *context) {
-  ble_client_write_without_response(s_ctx.scratch1_characteristic,
-                                    (const uint8_t *) &SERVO_FWD, sizeof(SERVO_FWD));
-  ble_client_write_without_response(s_ctx.scratch2_characteristic,
-                                    (const uint8_t *) &SERVO_BACK, sizeof(SERVO_BACK));
+  if (!leftForward) {
+    ble_client_write_without_response(s_ctx.scratch1_characteristic,
+                                      (const uint8_t *) &SERVO_FWD, sizeof(SERVO_FWD));
+  }
+
+  if (!rightFoward) {
+    ble_client_write_without_response(s_ctx.scratch2_characteristic,
+                                      (const uint8_t *) &SERVO_BACK, sizeof(SERVO_BACK));
+  }
   printf("SELECT=1");
 }
 
