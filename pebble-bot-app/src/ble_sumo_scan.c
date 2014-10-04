@@ -138,7 +138,7 @@ static void ble_scan_handler(BTDevice device,
   char temp_local_name[32] = {0};
   ble_ad_copy_local_name(ad_data, temp_local_name,
                          sizeof(temp_local_name));
-  if (strcmp(temp_local_name, "pebblebot") != 0) {
+  if (strcmp(temp_local_name, "keg") != 0) {
     // If the Local Name of the device is not "pebblebot",
     // don't show it in the menu.
     return;

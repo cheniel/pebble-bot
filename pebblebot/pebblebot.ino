@@ -29,8 +29,8 @@ void loop()
     uint16_t leftServoSpeed = Bean.readScratchNumber(1);
     uint16_t rightServoSpeed = Bean.readScratchNumber(2);
 
-    if (leftServoSpeed != previousLeftServoSpeed) leftServo.write(leftServoSpeed);    
-    if (rightServoSpeed != previousRightServoSpeed) rightServo.write(rightServoSpeed);    
+    if (leftServoSpeed != previousLeftServoSpeed) leftServo.write(0);    
+    if (rightServoSpeed != previousRightServoSpeed) rightServo.write(180);    
     
     previousLeftServoSpeed = leftServoSpeed;
     previousRightServoSpeed = rightServoSpeed;

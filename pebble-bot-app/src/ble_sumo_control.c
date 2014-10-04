@@ -208,9 +208,27 @@ static void handle_down_button_down(ClickRecognizerRef recognizer, void *context
   printf("DOWN=1");
 }
 
+static void handle_select_button_up(ClickRecognizerRef recognizer, void *context) {
+  ble_client_write_without_response(s_ctx.scratch1_characteristic,
+                                    (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
+  ble_client_write_without_response(s_ctx.scratch2_characteristic,
+                                    (const uint8_t *) &SERVO_STILL, sizeof(SERVO_STILL));
+  printf("SELECT=0");
+}
+
+static void handle_select_button_down(ClickRecognizerRef recognizer, void *context) {
+  ble_client_write_without_response(s_ctx.scratch1_characteristic,
+                                    (const uint8_t *) &SERVO_FWD, sizeof(SERVO_FWD));
+  ble_client_write_without_response(s_ctx.scratch2_characteristic,
+                                    (const uint8_t *) &SERVO_BACK, sizeof(SERVO_BACK));
+  printf("SELECT=1");
+}
+
 static void click_config_provider(void *data) {
   window_raw_click_subscribe(BUTTON_ID_UP, handle_up_button_down, handle_up_button_up, NULL);
   window_raw_click_subscribe(BUTTON_ID_DOWN, handle_down_button_down, handle_down_button_up, NULL);
+  window_raw_click_subscribe(BUTTON_ID_SELECT, handle_select_button_down, handle_select_button_up, NULL);
+
 }
 
 //------------------------------------------------------------------------------
